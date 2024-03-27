@@ -5,7 +5,7 @@ int main(){
     int cent,reais,sobra,n100,n50,n20,n10,n5,m1,m50,m25,m10,m5,m1c,sobram;
     cout<<"Quantos centavos voce possui?\n";
     cin>>cent;
-    cout<<"Quantos reias voce possui?\n";
+    cout<<"Quantos reais voce possui?\n";
     cin>>reais;
     n100=reais/100;
     cout <<"Notas de 100: "<<n100;
